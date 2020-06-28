@@ -1,5 +1,5 @@
 # Apply-Decision-Trees-on-Donors-Choose-dataset
-# DT
+
 <p style="background:black">
 <code style="background:black;color:white">Step by Step Procedure
 </code>
